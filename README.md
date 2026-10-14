@@ -1,5 +1,4 @@
-# CellInterpreter
-A Hybrid Natural Language Interface for Single-cell RNA-seq Analysis and Data-Driven Biological Interpretation
+# CellInterpreter: A Hybrid Natural Language Interface for Single-cell RNA-seq Analysis and Data-Driven Biological Interpretation
 This repository contains the codes, processed scRNA-seq data, and results of the developed CellInterpreter platform. The platform is able to visually analyze and interpret scRNA-seq data of both human and animal. The platform can be used on any publicly available scRNA-seq data using both graphical user interface and natural language query assistant.
 
 <img width="2000" height="961" alt="image" src="https://github.com/user-attachments/assets/b06a8047-49fa-4746-8e3e-61b0271cbb46" />
@@ -17,3 +16,6 @@ The code folder contains the codes of CellInterpreter including requirements fil
 If you find this repository useful, please consider citing our paper:
 
 Khan, M.T. et al., A Hybrid Natural Language Interface for Single-cell RNA-seq Analysis and Data-Driven Biological Interpretation.
+
+# Contact
+For possible collaboration and any queries. Contact us of the following email address: muhammadturyalaikhan@gmail.com. Dr. Muhammad Turyalai Khan, Institute of Sciences in Emergency Medicine (ISEM).
