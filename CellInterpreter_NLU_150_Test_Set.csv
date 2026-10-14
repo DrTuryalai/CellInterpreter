@@ -1,0 +1,151 @@
+﻿id,query,expected_task,expected_gene,category
+1,Show the expression of IL9.,plot_expression,IL9,expression
+2,Plot IL1R1 expression.,plot_expression,IL1R1,expression
+3,Can you display KCNN4 expression?,plot_expression,KCNN4,expression
+4,I want to see TMEM176A expression.,plot_expression,TMEM176A,expression
+5,Visualize CD3D in the dataset.,plot_expression,CD3D,expression
+6,How is CD4 expressed?,plot_expression,CD4,expression
+7,Give me an expression plot for IL7R.,plot_expression,IL7R,expression
+8,Display the expression profile of CD3E.,plot_expression,CD3E,expression
+9,Let's look at LTB expression.,plot_expression,LTB,expression
+10,What does IL2RA expression look like?,plot_expression,IL2RA,expression
+11,Show me how FOXP3 is expressed.,plot_expression,FOXP3,expression
+12,Generate a plot for GATA3 expression.,plot_expression,GATA3,expression
+13,Could you visualize the expression of CCR7?,plot_expression,CCR7,expression
+14,I need the expression pattern for LST1.,plot_expression,LST1,expression
+15,Please plot the expression levels of TYROBP.,plot_expression,TYROBP,expression
+16,Can I see MS4A1 expression?,plot_expression,MS4A1,expression
+17,Make an expression visualization for CD79A.,plot_expression,CD79A,expression
+18,Explore expression of NKG7.,plot_expression,NKG7,expression
+19,Show the transcriptomic expression of GNLY.,plot_expression,GNLY,expression
+20,Plot the gene expression for IFNG.,plot_expression,IFNG,expression
+21,Display TNF across the cells.,plot_expression,TNF,expression
+22,I would like to inspect CXCR4 expression.,plot_expression,CXCR4,expression
+23,Can you show how strongly TP53 is expressed?,plot_expression,TP53,expression
+24,Visualize transcript levels of MALAT1.,plot_expression,MALAT1,expression
+25,Create an expression plot for the gene HLA-DRA.,plot_expression,HLA-DRA,expression
+26,Make a violin plot for CD4.,plot_violin,CD4,violin
+27,Show a violin plot of IL7R.,plot_violin,IL7R,violin
+28,Plot CD3E as a violin plot.,plot_violin,CD3E,violin
+29,Can you visualize LTB with a violin plot?,plot_violin,LTB,violin
+30,I want a violin plot for IL2RA.,plot_violin,IL2RA,violin
+31,Display the violin distribution of FOXP3.,plot_violin,FOXP3,violin
+32,Create a violin chart for GATA3.,plot_violin,GATA3,violin
+33,Show me the violin plot for gene CCR7.,plot_violin,CCR7,violin
+34,Use a violin plot to show LST1.,plot_violin,LST1,violin
+35,Plot the distribution of TYROBP with violins.,plot_violin,TYROBP,violin
+36,Generate a violin visualization of MS4A1.,plot_violin,MS4A1,violin
+37,Could you make a violin graph for CD79A?,plot_violin,CD79A,violin
+38,Let's see NKG7 in a violin plot.,plot_violin,NKG7,violin
+39,Visualize GNLY using violins.,plot_violin,GNLY,violin
+40,Give me a violin plot showing IFNG.,plot_violin,IFNG,violin
+41,Please generate the violin plot for TNF.,plot_violin,TNF,violin
+42,I need a violin visualization for CXCR4.,plot_violin,CXCR4,violin
+43,Can you display CTLA4 as violins?,plot_violin,CTLA4,violin
+44,Make the MALAT1 distribution a violin plot.,plot_violin,MALAT1,violin
+45,Show the cell-level distribution of HLA-DRA with a violin plot.,plot_violin,HLA-DRA,violin
+46,Plot gene CCL5 using a violin chart.,plot_violin,CCL5,violin
+47,I'd like to inspect TRBC1 with a violin plot.,plot_violin,TRBC1,violin
+48,Create a violin plot showing expression of TP53.,plot_violin,TP53,violin
+49,Can you plot TP53 as a violin?,plot_violin,TP53,violin
+50,Visualize the distribution of gene BATF using a violin plot.,plot_violin,BATF,violin
+51,Make a dot plot for FOXP3.,plot_dotplot,FOXP3,dotplot
+52,Show a dot plot of GATA3.,plot_dotplot,GATA3,dotplot
+53,Plot CCR7 as a dot plot.,plot_dotplot,CCR7,dotplot
+54,Can you visualize LST1 with a dot plot?,plot_dotplot,LST1,dotplot
+55,I want a dot plot for TYROBP.,plot_dotplot,TYROBP,dotplot
+56,Display MS4A1 using a dot plot.,plot_dotplot,MS4A1,dotplot
+57,Create a dot plot for gene CD79A.,plot_dotplot,CD79A,dotplot
+58,Show me the dotplot for NKG7.,plot_dotplot,NKG7,dotplot
+59,Use a dot plot to visualize GNLY.,plot_dotplot,GNLY,dotplot
+60,Generate a dotplot of IFNG.,plot_dotplot,IFNG,dotplot
+61,Could you make a dot plot showing TNF?,plot_dotplot,TNF,dotplot
+62,Let's see CXCR4 in a dot plot.,plot_dotplot,CXCR4,dotplot
+63,Visualize CTLA4 with dots.,plot_dotplot,CTLA4,dotplot
+64,Give me a dot plot showing MALAT1 expression.,plot_dotplot,MALAT1,dotplot
+65,Please generate the dot plot for HLA-DRA.,plot_dotplot,HLA-DRA,dotplot
+66,I need a dotplot for CCL5.,plot_dotplot,CCL5,dotplot
+67,Can you display TRBC1 as a dot plot?,plot_dotplot,TRBC1,dotplot
+68,Make a dot plot of the expression of TRBC2.,plot_dotplot,TRBC2,dotplot
+69,Show the expression pattern of ICOS with a dot plot.,plot_dotplot,ICOS,dotplot
+70,Plot gene BATF using dots.,plot_dotplot,BATF,dotplot
+71,I'd like to inspect IL9 with a dot plot.,plot_dotplot,IL9,dotplot
+72,Create a dot visualization for IL1R1.,plot_dotplot,IL1R1,dotplot
+73,Can you plot KCNN4 as a dotplot?,plot_dotplot,KCNN4,dotplot
+74,Visualize the expression of gene TMEM176A in a dot plot.,plot_dotplot,TMEM176A,dotplot
+75,Give me the TP53 dot plot.,plot_dotplot,TP53,dotplot
+76,Show a UMAP for MS4A1.,plot_umap,MS4A1,umap
+77,Plot UMAP for CD79A.,plot_umap,CD79A,umap
+78,Can you generate a UMAP of NKG7?,plot_umap,NKG7,umap
+79,Visualize GNLY on UMAP.,plot_umap,GNLY,umap
+80,I want to see IFNG on the UMAP.,plot_umap,IFNG,umap
+81,Display a UMAP colored by TP53.,plot_umap,TP53,umap
+82,Create a UMAP plot for CXCR4.,plot_umap,CXCR4,umap
+83,Show gene CTLA4 on the UMAP.,plot_umap,CTLA4,umap
+84,Use UMAP to visualize MALAT1.,plot_umap,MALAT1,umap
+85,Generate a UMAP visualization of HLA-DRA.,plot_umap,HLA-DRA,umap
+86,Could you plot CCL5 on UMAP?,plot_umap,CCL5,umap
+87,Let's view TRBC1 in UMAP space.,plot_umap,TRBC1,umap
+88,Map TP53 onto the UMAP.,plot_umap,TP53,umap
+89,Visualize AIBG across the UMAP embedding.,plot_umap,AIBG,umap
+90,Give me a UMAP showing BATF.,plot_umap,BATF,umap
+91,Please display AIBG on a UMAP.,plot_umap,AIBG,umap
+92,I need a UMAP visualization for IL1R1.,plot_umap,IL1R1,umap
+93,Can you show KCNN4 in UMAP space?,plot_umap,KCNN4,umap
+94,Plot the UMAP expression of TMEM176A.,plot_umap,TMEM176A,umap
+95,Show the UMAP distribution of CD3D.,plot_umap,CD3D,umap
+96,Create a UMAP colored by gene CD4.,plot_umap,CD4,umap
+97,I'd like to inspect IL7R using UMAP.,plot_umap,IL7R,umap
+98,Display gene CD3E on the UMAP embedding.,plot_umap,CD3E,umap
+99,Can you visualize gene LTB on UMAP?,plot_umap,LTB,umap
+100,Generate the UMAP for gene IL2RA.,plot_umap,IL2RA,umap
+101,Show a t-SNE for TNF.,plot_tsne,TNF,tsne
+102,Plot t-SNE for CXCR4.,plot_tsne,CXCR4,tsne
+103,Can you generate a t-SNE of CTLA4?,plot_tsne,CTLA4,tsne
+104,Visualize MALAT1 on t-SNE.,plot_tsne,MALAT1,tsne
+105,I want to see HLA-DRA on the t-SNE.,plot_tsne,HLA-DRA,tsne
+106,Display a t-SNE colored by CCL5.,plot_tsne,CCL5,tsne
+107,Create a t-SNE plot for TRBC1.,plot_tsne,TRBC1,tsne
+108,Show gene TRBC2 on the t-SNE.,plot_tsne,TRBC2,tsne
+109,Use t-SNE to visualize ICOS.,plot_tsne,ICOS,tsne
+110,Generate a t-SNE visualization of BATF.,plot_tsne,BATF,tsne
+111,Could you plot IL9 on t-SNE?,plot_tsne,IL9,tsne
+112,Let's view IL1R1 in t-SNE space.,plot_tsne,IL1R1,tsne
+113,Map KCNN4 onto the t-SNE.,plot_tsne,KCNN4,tsne
+114,Visualize TMEM176A across the t-SNE embedding.,plot_tsne,TMEM176A,tsne
+115,Give me a t-SNE showing CD3D.,plot_tsne,CD3D,tsne
+116,Please display CD4 on a t-SNE.,plot_tsne,CD4,tsne
+117,I need a t-SNE visualization for IL7R.,plot_tsne,IL7R,tsne
+118,Can you show CD3E in t-SNE space?,plot_tsne,CD3E,tsne
+119,Plot the t-SNE expression of LTB.,plot_tsne,LTB,tsne
+120,Show the t-SNE distribution of IL2RA.,plot_tsne,IL2RA,tsne
+121,Create a t-SNE colored by gene AIBG.,plot_tsne,AIBG,tsne
+122,I'd like to inspect GATA3 using t-SNE.,plot_tsne,GATA3,tsne
+123,Display gene CCR7 on the t-SNE embedding.,plot_tsne,CCR7,tsne
+124,Can you visualize gene LST1 on t-SNE?,plot_tsne,LST1,tsne
+125,Generate the t-SNE for gene TYROBP.,plot_tsne,TYROBP,tsne
+126,Show me the expression of FOXP3 across the cells.,plot_expression,FOXP3,expression
+127,Can you make a violin plot for IL7R?,plot_violin,ILR7,violin
+128,Display CD3D and CD3E together in a dot plot.,plot_dotplot,"CD3D,CD3E",dotplot
+129,Color the UMAP according to MKI67 expression.,plot_umap,MKI67,umap
+130,I want to visualize TP53 expression using a t-SNE plot.,plot_tsne,TP53,tsne
+131,Give me the TP53 dot plot.,plot_dotplot,TP53,dotplot
+132,Show a UMAP for MS4A1.,plot_umap,MS4A1,umap
+133,Plot UMAP for CD79A.,plot_umap,CD79A,umap
+134,Can you generate a UMAP of NKG7?,plot_umap,NKG7,umap
+135,Visualize GNLY on UMAP.,plot_umap,GNLY,umap
+136,I want to see IFNG on the UMAP.,plot_umap,IFNG,umap
+137,Display a UMAP colored by TP53.,plot_umap,TP53,umap
+138,Create a UMAP plot for CXCR4.,plot_umap,CXCR4,umap
+139,Show gene CTLA4 on the UMAP.,plot_umap,CTLA4,umap
+140,Use UMAP to visualize MALAT1.,plot_umap,MALAT1,umap
+141,What is the weather today?,,,
+142,Write a Python program that sorts a list.,,,
+143,What is the capital of France?,,,
+144,Can you translate this sentence into Arabic?,,,
+145,What is the current price of Bitcoin?,,,
+146,Write a short poem about biology.,,,
+147,Who is the president of the United States?,,,
+148,Help me plan a vacation to Japan.,,,
+149,What is two hundred times thirty?,,,
+150,Can you summarize a novel for me?,,,
