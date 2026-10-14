@@ -1,0 +1,14 @@
+streamlit
+scanpy
+anndata
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+matplotlib-venn
+plotly
+requests
+tqdm
+scikit-learn
+umap-learn
