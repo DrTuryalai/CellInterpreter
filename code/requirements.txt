@@ -1,4 +1,3 @@
-streamlit
 scanpy
 anndata
 numpy
@@ -11,4 +10,5 @@ plotly
 requests
 tqdm
 scikit-learn
+streamlit
 umap-learn
