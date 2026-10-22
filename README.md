@@ -18,4 +18,4 @@ If you find this repository useful, please consider citing our paper:
 Khan, M.T. et al., A Hybrid Natural Language Interface for Single-cell RNA-seq Analysis and Data-Driven Biological Interpretation.
 
 # Contact
-For possible collaboration and any queries. Contact us of the following email address: muhammadturyalaikhan@gmail.com. Dr. Muhammad Turyalai Khan, Institute of Sciences in Emergency Medicine (ISEM).
+For possible collaboration and any queries. Contact us on the following email address: muhammadturyalaikhan@gmail.com. Dr. Muhammad Turyalai Khan, Institute of Sciences in Emergency Medicine (ISEM).
