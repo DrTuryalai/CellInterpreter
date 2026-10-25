@@ -18,7 +18,7 @@ If you find this repository useful, please consider citing our paper:
 Khan, M.T. et al., A Hybrid Natural Language Interface for Single-cell RNA-seq Analysis and Data-Driven Biological Interpretation.
 
 # Contact
-For possible collaboration and any queries. 
-Contact the following email address: . 
-Prof. Dr. Abdelouahab Bellou 
+For possible collaboration and any queries.
+Contact the following email address: 
+Prof. Dr. Abdelouahab Bellou,
 Director, Institute of Sciences in Emergency Medicine (ISEM).
