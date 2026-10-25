@@ -15,7 +15,7 @@ The code folder contains the codes of CellInterpreter including requirements fil
 # Citing This Work
 If you find this repository useful, please consider citing our paper:
 
-Khan, M.T. et al., A Hybrid Natural Language Interface for Single-cell RNA-seq Analysis and Data-Driven Biological Interpretation.
+Khan, M.T. and Bellou, A. et al., A Hybrid Natural Language Interface for Single-cell RNA-seq Analysis and Data-Driven Biological Interpretation.
 
 # Contact
 For possible collaboration and any queries.
