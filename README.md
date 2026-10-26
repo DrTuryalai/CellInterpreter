@@ -20,5 +20,7 @@ Khan, M.T. and Bellou, A. et al., A Hybrid Natural Language Interface for Single
 # Contact
 For possible collaboration and any queries,
 contact the following email address: 
+
 Prof. Dr. Abdelouahab Bellou,
+
 Director, Institute of Sciences in Emergency Medicine (ISEM).
